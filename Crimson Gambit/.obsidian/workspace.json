@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Races/Demon.md",
+                "file": "Races/Humans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Demon"
+              "title": "Humans"
             }
           }
         ]
@@ -173,8 +173,8 @@
   },
   "active": "b13e97467b494256",
   "lastOpenFiles": [
-    "Races/Humans.md",
     "Races/Demon.md",
+    "Races/Humans.md",
     "Races/Robot.md",
     "Races/Shadow Monsters.md",
     "flag_rebuild.md",
