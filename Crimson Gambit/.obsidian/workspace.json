@@ -11,14 +11,10 @@
             "id": "b13e97467b494256",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Major Families/Ardennes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ardennes"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -167,32 +163,33 @@
       "obsidian-livesync:Replicate": false,
       "obsidian-livesync:P2P Replicator": false,
       "obsidian-livesync:Show Customization sync": false,
-      "yet-another-obsidian-synchronizer:YAOS": false
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "b13e97467b494256",
   "lastOpenFiles": [
+    "Races/Demon.md",
+    "Organizations/D.C.U.md",
+    "Organizations/Crystal Hearts.md",
+    "Organizations/A.P.P.md",
     "Major Families/Hit.md",
+    "Major Families/Ardennes.md",
+    "Major Families/Mezogna.md",
+    "Major Families/Contents/Major Families.md",
+    "Image Vault/Pasted image 20250811231906.png",
     "flag_rebuild.md",
     "Races/Robot.md",
-    "Image Vault/Pasted image 20250811231906.png",
-    "Races/Demon.md",
     "Races/Humans.md",
     "Races/Shadow Monsters.md",
     "Image Vault/Pasted image 20250811150750.png",
     "Image Vault/Pasted image 20250811150505.png",
     "Image Vault/Pasted image 20250811150421.png",
     "Races/Powered.md",
-    "Major Families/Contents/Major Families.md",
-    "Major Families/Ardennes.md",
     "Major Locations/Crimson Town - Michigan.md",
-    "Major Families/Mezogna.md",
     "Image Vault/Pasted image 20250811170511.png",
     "Organizations/Hope's Love.md",
-    "Organizations/D.C.U.md",
     "Organizations/Contents/Organizations.md",
-    "Organizations/A.P.P.md",
-    "Organizations/Crystal Hearts.md",
     "Major Locations/Contents/Major Locations.md",
     "Major Locations/Nation of Laksven.md",
     "Major Locations/Romero City - Wisconsin.md",
