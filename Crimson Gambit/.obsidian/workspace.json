@@ -163,10 +163,6 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-livesync:Show Log": false,
-      "obsidian-livesync:Replicate": false,
-      "obsidian-livesync:P2P Replicator": false,
-      "obsidian-livesync:Show Customization sync": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
       "github-sync:Sync with Remote": false
     }
