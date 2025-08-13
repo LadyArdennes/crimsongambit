@@ -1,0 +1,5 @@
+[[Humans]]
+[[Demon]]
+[[Shadow Monsters]]
+[[Powered]]
+[[Robot]]
